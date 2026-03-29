@@ -1,5 +1,10 @@
 # Customer Segmentation using K-Means and Random Forest
+## Dataset
 
+The dataset is located in the `data/` folder.
+
+To run the project, place the dataset file:
+`customers.csv`
 ## 📌 Project Overview
 
 This project focuses on customer segmentation using RFM analysis (Recency, Frequency, Monetary) and machine learning techniques.
